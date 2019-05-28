@@ -1,0 +1,22 @@
+.fullscreen.wrapper {
+	height: calc(100vh - 101px);
+}
+[role="contentinfo"]{
+	padding:0;
+}
+.pakar-section img {
+	width: 270px;
+	height: 270px;
+	object-fit: cover;
+}
+
+.buku-table tr td {
+	vertical-align: middle;
+}
+.embed-book embed {
+	width: 100%;
+	height: 100vh;
+}
+.book_post {
+	padding-left: 0;
+}
